@@ -1,16 +1,47 @@
-### Hi there 👋
+## Olá, pessoal. Me chamo João! 👍🏼
 
-<!--
-**Jhonyzin/Jhonyzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### REDES SOCIAIS:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-paulo-santos-botelho-00a659270/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/botelho_jhonyzin/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/central-games-1059963386273742959)
+
+<hr>
+
+![Jhonizyn](https://github-readme-stats.vercel.app/api?username=Jhonyzin&show_icons=true&theme=radical)
+
+
+
+## Linguagens:
+
+### Estudando atualmente:
+
+<div style = "display: inline_block"><br/>
+    <img align = "center" alt = "C" src = "
+	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align = "center" alt = "python" src = "
+	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+<hr>
+
+### Tenho conhecimento:
+<div style = "display: inline_block"><br/>
+    <img align = "center" alt = "C" src = "
+	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align = "center" alt = "python" src = "
+	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align = "center" alt = "html5" src = "
+	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align = "center" alt = "python" src = "
+    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+</div>
+<hr>
+
+
+
+
+
+	
