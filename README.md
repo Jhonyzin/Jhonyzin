@@ -18,7 +18,7 @@
 ### Estudando atualmente:
 
 <div style = "display: inline_block"><br/>
-    <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align = "center" alt = "js" src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
 </div>
 
 <hr>
